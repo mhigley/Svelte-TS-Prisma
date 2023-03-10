@@ -9,7 +9,7 @@
         </article>
     </div>
 
-    <form action="?/createArticle" method="POST">
+    <form action="" method="POST">
         <h3>New Article</h3>
         <label for="title">Title</label>
         <input type="text" id="title" name="title" />
